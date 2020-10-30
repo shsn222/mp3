@@ -1,0 +1,7 @@
+1. This is Duplicated Code. To remove it you could make a new
+method and call that instead.
+
+3. This is many calls to the same method in a class. This method may not belong in this class.
+
+4. This code can be extracted to a method like in Question 1 to avoid duplicate code.
+
